@@ -7,33 +7,27 @@ _Learn how to organize and highlight valuable conversations in GitHub Discussion
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
 -->
 
-## Step 1: Create a Discussion 💬
+<!-- <<< Author notes: Step 2 >>> -->
+## Step 2: Pin a Discussion 
 
-Let’s kick things off by starting a Discussion!
+Now that you've started a Discussion, let’s make sure it gets the visibility it deserves. Start this step by pinning your Discussion so your community can quickly see the most important threads. 
 
-### 🧠 What is a GitHub Discussion?
+### 🤔 Why this matters
 
-GitHub Discussions is a collaborative space within your repository where you can ask questions, propose ideas, or share announcements.
+Pinned Discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical information for your team or contributors.
 
-### 💬 Activity: Create a new Discussion
+### ⚙️ Activity: Pin your Discussion
 
-1. Navigate to your repository's **Discussions** tab.
-2. Click **New Discussion**.
-3. Choose a category like **Q&A** or **Ideas**.
-4. Add a title and meaningful message.
-5. Click **Start Discussion**.
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
-
-### 💡 Why this matters
-
-Creating Discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
+1. Go to your Discussions tab.
+2. Click into the Discussion you just created.
+3. In the top right panel, look for the **Pin Discussion to…** option.
+4. Click it. If successful, your Discussion will now show a 📌 **Pinned** label.
+5. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
 <footer>
 
