@@ -1,4 +1,10 @@
+<header>
 
+# 📌 Pinning threads & responses
+
+_Learn how to organize and highlight valuable conversations in GitHub Discussions._
+
+</header>
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -8,43 +14,26 @@
   Encourage users to open new tabs for steps!
 -->
 
-<header>
+## Step 1: Create a Discussion 💬
 
-# 📌 Pinning threads & responses
+Let’s kick things off by starting a Discussion!
 
-_Learn how to organize and highlight valuable conversations in GitHub Discussions._
+### 🧠 What is a GitHub Discussion?
 
-</header>
+GitHub Discussions is a collaborative space within your repository where you can ask questions, propose ideas, or share announcements.
 
-## Welcome
+### 💬 Activity: Create a new Discussion
 
-Keeping important information easy to find is crucial for maintaining a strong, helpful community on GitHub. Pinning critical discussions and marking helpful replies ensures your users, teammates, or contributors can quickly locate the most useful information. In this course, you'll practice organizing discussions and keeping your collaboration spaces updated and clear.
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
+6. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
-- **Who is this for**: Repository maintainers, open source contributors, community managers, project leads, new GitHub users.
-- **What you'll learn**: How to create and pin discussions, how to mark replies as answers, how to update priorities by unpinning threads.
-- **What you'll build**: A clear and organized Discussions board with pinned topics and marked solutions.
-- **Prerequisites**: Familiarity with basic GitHub navigation. We recommend taking [Introduction to GitHub](https://github.com/skills/introduction-to-github) prior to this course.
-- **How long**: About 15–20 minutes to complete.
+### 💡 Why this matters
 
-In this course, you will:
-
-1. Create a discussion
-2. Pin a discussion
-3. Mark a reply as an answer
-4. Unpin a discussion to update priorities
-
----
-
-### 🚀 How to start this course
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=samaradw&template_name=pin7&owner=%40me&name=samaradw-pin7&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. Fill out the form to create your own copy of the course repository.
-   - For owner, choose your personal account or organization.
-   - Public repositories are recommended, as private ones will [consume GitHub Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-3. Click **Create repository** and wait about 20 seconds.
-4. Refresh the page and follow the instructions in your new repository.
+Creating Discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
 <footer>
 
