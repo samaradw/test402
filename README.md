@@ -7,32 +7,26 @@ _Learn how to organize and highlight valuable conversations in GitHub Discussion
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-<!--
-  <<< Author notes: Step 3 >>>
-  This step teaches learners how to mark a helpful reply as the answer in a GitHub Discussion.
--->
+<!-- <<< Author notes: Step 4 >>> -->
+## 🧹 Step 4: Unpin to update priorities
 
-## Step 3: Mark as answer
+Sometimes priorities change — that's where unpinning comes in.
 
-✅ Let's help your community find clarity!
+In this step, you'll **unpin a Discussion** to reflect updated priorities or remove outdated announcements.
 
-When you mark a reply as the answer to a Discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style Discussions where clarity and resolution are essential.
+### 📌 Why this matters
+Unpinning Discussions helps keep your repository organized and focused. It ensures only the most relevant topics remain visible to your community.
 
-### 💡 Why this matters
-
-Marking answers helps improve knowledge sharing. It makes it easier for other contributors to quickly identify which replies contain accurate or helpful solutions, reducing confusion and repeated questions.
-
-### 💬 Activity: Mark a reply as the answer
-
-1. Go to the Discussion you created earlier.
-2. Reply to it using another account or use an alternate reply on your post.
-3. Hover over the reply that best answers your Discussion.
-4. Click the **✔️ Mark as answer** button to highlight it.
+### ✅ What to do
+1. Go to the **Discussions** tab.
+2. Look for a Discussion that has already been pinned (you'll see a 📌 icon).
+3. Scroll to the **bottom of the pinned Discussion**.
+4. Click **Unpin this Discussion**.
 5. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
 <footer>
